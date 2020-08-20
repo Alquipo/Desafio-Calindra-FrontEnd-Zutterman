@@ -85,3 +85,10 @@ Executar o arquivo index.html
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mais.
 
 Feito com ❤️ por Alquipo Neto 👋🏽 [Entre em contato!](https://www.linkedin.com/in/alquiponeto/)
+
+[reactjs]: https://reactjs.org/
+[nodejs]: https://nodejs.org/en/
+[rs]: https://rocketseat.com.br
+[license]: https://opensource.org/licenses/MIT
+[desafio2]: https://github.com/Alquipo/GoStack12-desafio-02
+[typescript]: https://www.typescriptlang.org/
