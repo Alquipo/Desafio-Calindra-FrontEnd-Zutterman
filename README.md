@@ -13,8 +13,9 @@
 </a>
 
 <a href="https://github.com/Alquipo/Desafio-Calindra-FrontEnd-Zutterman/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AlquipoDesafio-Calindra-FrontEnd-Zutterman?color=blue">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alquipo/Desafio-Calindra-FrontEnd-Zutterman?color=blue">
 </a>
+
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
 
